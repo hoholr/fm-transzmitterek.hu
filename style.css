@@ -158,6 +158,10 @@ z-index: 999;}
 	border:none;
 	width: 100%;
 }
+.block-slider ul{
+	display:flex;
+	margin:2em 0;
+}
 .block-slider ul li{
 	list-style: none;
 	margin-top:auto;
